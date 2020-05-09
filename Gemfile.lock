@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     trix-gem (0.11.2)
-      rails (> 4.1, <= 6.3)
+      rails (> 4.1, <= 6.0.3)
 
 GEM
   remote: https://rubygems.org/
